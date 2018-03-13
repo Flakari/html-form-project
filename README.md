@@ -1,1 +1,2 @@
-# html-form-project
+# HTML Form Project
+Recreation of the Intuit sign up page for the Odin Project.
